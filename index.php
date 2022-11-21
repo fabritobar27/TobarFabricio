@@ -16,7 +16,7 @@ include("marco-right.php");
        		 <hr>
              
           <div id="posteo" style="text-align: left; font-size:0.5vw;">
-                Posteado por:  Fabricio Tobar<br>
+                Posteado por:  Fabricio Tobar Cajas<br>
                 Fecha: 2022-10-30 <br>
           </div>
         </div>
